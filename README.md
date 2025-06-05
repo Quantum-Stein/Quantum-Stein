@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi, I'm Quantum Stein 👋
 
-I’m an undergraduate **Physics** student with a strong interest in **Theoretical Astrophysics** and **Relativity**. My research interests include **black hole physics**, **gravitational waves**, and the intersection of **quantum mechanics** and **general relativity**. I’m always looking to collaborate on projects related to astrophysics, data analysis, and computational physics! 🌌
+I’m an undergraduate **Physics** student with a focus on **Theoretical Astrophysics**, **Relativity (TAPIR)**, **High-Energy and Particle Physics (HEP)**, and **Quantum Information Science (QIS)**. I am currently developing a research direction that combines these fields: **Quantum Information Science for High-Energy Physics (QIS for HEP)**. This area investigates how quantum technologies, like entangled sensors and quantum-enhanced detectors, can enhance our probing of fundamental physics, including dark matter searches. I’m eager to collaborate on projects related to astrophysics, data analysis, and computational physics! 🌌
 
 ### Currently Learning:
 - **Languages**: Japanese 🇯🇵 & French 🇫🇷
